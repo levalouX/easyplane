@@ -1,0 +1,1791 @@
+{
+  "assets": {
+    "dest-tahiti.jpg": {
+      "file": "dest-tahiti.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tahiti,_French_Polynesia_-_Mo%27orea_(48089657161).jpg",
+      "author": "Matthew Dillon",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "Moorea · lagon et relief"
+    },
+    "moorea-haapiti-beach.jpg": {
+      "file": "moorea-haapiti-beach.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:DSC00033_Polyn%C3%A9sia_Mor%C3%A9a_island_Haapiti_Beach_(8076090305).jpg",
+      "author": "DANIEL JULIE",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "Plage de Haapiti à Moorea"
+    },
+    "moorea-motu-boat.jpg": {
+      "file": "moorea-motu-boat.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:DSC00042_Polyn%C3%A9sia_Moor%C3%A9a_Island_Motu_Mo%C3%A9a_Lagoon_and_transportation_Boat_(8076082190).jpg",
+      "author": "DANIEL JULIE",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "Embarcation dans le lagon de Moorea"
+    },
+    "commons-e4cca914582a.jpg": {
+      "file": "commons-e4cca914582a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_Destin,_Florida_from_the_Destin_Harbor.jpg",
+      "author": "Destin Vacation Boat Rentals",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:View_of_Destin,_Florida_from_the_Destin_Harbor.jpg"
+    },
+    "commons-3fdb9fe07ed8.jpg": {
+      "file": "commons-3fdb9fe07ed8.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Lyon_La_Sa%C3%B4ne_et_Bateau-Mouche.tiff",
+      "author": "Léon & Lévy",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "title": "File:Lyon La Saône et Bateau-Mouche.tiff"
+    },
+    "commons-5c7f71996f35.jpg": {
+      "file": "commons-5c7f71996f35.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Strasbourg_Petite-France_place_Benjamin-Zix_septembre_2015.jpg",
+      "author": "Photo Claude TRUONG-NGOC",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Strasbourg_Petite-France_place_Benjamin-Zix_septembre_2015.jpg"
+    },
+    "commons-914a8f585d5a.jpg": {
+      "file": "commons-914a8f585d5a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+      "author": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg"
+    },
+    "commons-915abdc7d61f.jpg": {
+      "file": "commons-915abdc7d61f.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Myrtos_Beach,_Kefalonia.jpg",
+      "author": "Matt Sims",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Myrtos Beach, Kefalonia.jpg"
+    },
+    "commons-441ffbd009d0.jpg": {
+      "file": "commons-441ffbd009d0.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Martinique-de-haut_(cropped).jpg",
+      "author": "ESA/NASA",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "title": "File:Martinique-de-haut_(cropped).jpg"
+    },
+    "commons-efb135f7a4d3.jpg": {
+      "file": "commons-efb135f7a4d3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Malendure_et_ilets_pigeon_-_Guadeloupe_-_2006.JPG",
+      "author": "Utilisateur:Grook Da Oger",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "File:Malendure_et_ilets_pigeon_-_Guadeloupe_-_2006.JPG"
+    },
+    "commons-4d7179d74a87.jpg": {
+      "file": "commons-4d7179d74a87.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Piton_de_la_Fournaise,_R%C3%A9union_Island_(High_Resolution).jpg",
+      "author": "Brian Iannone",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "title": "File:Piton_de_la_Fournaise,_Réunion_Island_(High_Resolution).jpg"
+    },
+    "commons-94a45ac0b881.jpg": {
+      "file": "commons-94a45ac0b881.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_Edinburgh.jpg",
+      "author": "Andrew Colin",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Skyline_of_Edinburgh.jpg"
+    },
+    "commons-4a2a39a8badb.jpg": {
+      "file": "commons-4a2a39a8badb.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg",
+      "author": "ThatsTheBoss",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "title": "File:Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg"
+    },
+    "commons-863ba65d230f.jpg": {
+      "file": "commons-863ba65d230f.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hollywood_sign_(8485145044).jpg",
+      "author": "Gnaphron",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "title": "File:Hollywood_sign_(8485145044).jpg"
+    },
+    "commons-ee13d7b231cd.jpg": {
+      "file": "commons-ee13d7b231cd.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grand-Place,_Brussels_-_panorama,_June_2018.jpg",
+      "author": "Celuici",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Grand-Place,_Brussels_-_panorama,_June_2018.jpg"
+    },
+    "commons-555526881569.jpg": {
+      "file": "commons-555526881569.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:02_Calanche_Piana.jpg",
+      "author": "Myrabella",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:02_Calanche_Piana.jpg"
+    },
+    "commons-a66fb1a6bf37.jpg": {
+      "file": "commons-a66fb1a6bf37.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
+      "author": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg"
+    },
+    "commons-5ac07742528f.jpg": {
+      "file": "commons-5ac07742528f.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Puerto_Madero,_Buenos_Aires_(40689219792)_(cropped).jpg",
+      "author": "Deensel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Puerto_Madero,_Buenos_Aires_(40689219792)_(cropped).jpg"
+    },
+    "commons-d7ea2496f43a.jpg": {
+      "file": "commons-d7ea2496f43a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Montage_Toulon.JPG",
+      "author": "Johnjohn83var",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Montage_Toulon.JPG"
+    },
+    "commons-a77dc9fe9235.jpg": {
+      "file": "commons-a77dc9fe9235.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marseille_Old_Port.jpg",
+      "author": "Ingo Mehling",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Marseille_Old_Port.jpg"
+    },
+    "commons-9f2e85b3b0c4.jpg": {
+      "file": "commons-9f2e85b3b0c4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nice_Harbor_from_Castle_Hill.jpg",
+      "author": "Yair Haklai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Nice Harbor from Castle Hill.jpg"
+    },
+    "commons-936422519ec7.jpg": {
+      "file": "commons-936422519ec7.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:F-OVAA_(cropped).jpg",
+      "author": "Liam Thompson",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:F-OVAA_(cropped).jpg"
+    },
+    "commons-682b6a741270.jpg": {
+      "file": "commons-682b6a741270.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Air_Tahiti_ATR-72_60_years_livery.jpg",
+      "author": "Garey",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Air_Tahiti_ATR-72_60_years_livery.jpg"
+    },
+    "commons-8bfe48e82e76.jpg": {
+      "file": "commons-8bfe48e82e76.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:PF-Moorea-sofitel.jpg",
+      "author": "Balou46",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:PF-Moorea-sofitel.jpg"
+    },
+    "commons-7c06b25e167c.jpg": {
+      "file": "commons-7c06b25e167c.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Moorea_and_InterContinental_Tahiti_Resort_-_panoramio.jpg",
+      "author": "kajikawa",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "title": "File:Moorea and InterContinental Tahiti Resort - panoramio.jpg"
+    },
+    "commons-40f70962f3ab.jpg": {
+      "file": "commons-40f70962f3ab.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Peugeot_208_PureTech_130_EAT8_Allure_GT-Line_(II)_%E2%80%93_f_17102021.jpg",
+      "author": "© M 93",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "title": "File:Peugeot_208_PureTech_130_EAT8_Allure_GT-Line_(II)_–_f_17102021.jpg"
+    },
+    "commons-64abd7e9b4b3.jpg": {
+      "file": "commons-64abd7e9b4b3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2018_Kia_Picanto_3_Automatic_1.2_Front.jpg",
+      "author": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:2018_Kia_Picanto_3_Automatic_1.2_Front.jpg"
+    },
+    "commons-4476d56832a2.jpg": {
+      "file": "commons-4476d56832a2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Renault_Twingo_Dynamique_(III)_%E2%80%93_Frontansicht,_24._Oktober_2015,_M%C3%BCnster.jpg",
+      "author": "M 93",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "title": "File:Renault_Twingo_Dynamique_(III)_–_Frontansicht,_24._Oktober_2015,_Münster.jpg"
+    },
+    "commons-06bfc62ca6a8.jpg": {
+      "file": "commons-06bfc62ca6a8.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Renault_Clio_(V,_Facelift)_%E2%80%93_f_02092025.jpg",
+      "author": "© M 93",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "title": "File:Renault_Clio_(V,_Facelift)_–_f_02092025.jpg"
+    },
+    "commons-3be0583a667b.jpg": {
+      "file": "commons-3be0583a667b.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg",
+      "author": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg"
+    },
+    "commons-88fe752e518d.jpg": {
+      "file": "commons-88fe752e518d.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Eng_Renault_Twizy_ZE.jpg",
+      "author": "Jwh",
+      "license": "CC BY-SA 3.0 lu",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/lu/deed.en",
+      "title": "File:Eng_Renault_Twizy_ZE.jpg"
+    },
+    "commons-36bba0f3502c.jpg": {
+      "file": "commons-36bba0f3502c.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pink_whipray_(Pateobatis_fai)_Moorea.jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Pink_whipray_(Pateobatis_fai)_Moorea.jpg"
+    },
+    "commons-87a12c54f408.jpg": {
+      "file": "commons-87a12c54f408.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gray%27s_spinner_dolphin_(Stenella_longirostris_longirostris)_Panglao_(cropped).jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Gray's_spinner_dolphin_(Stenella_longirostris_longirostris)_Panglao_(cropped).jpg"
+    },
+    "commons-a150de2c2b2f.jpg": {
+      "file": "commons-a150de2c2b2f.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching_off_Cabo_San_Lucas.jpg",
+      "author": "Juan Cruzado Cortés",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "title": "File:Humpback_whale_breaching_off_Cabo_San_Lucas.jpg"
+    },
+    "commons-b07cf6831595.jpg": {
+      "file": "commons-b07cf6831595.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_Corolla_Hybrid_(E210)_IMG_4338.jpg",
+      "author": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Toyota_Corolla_Hybrid_(E210)_IMG_4338.jpg"
+    },
+    "commons-85085225f0db.jpg": {
+      "file": "commons-85085225f0db.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_Kia_Sportage_S_front_only.jpg",
+      "author": "LuvsMG481",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:2025_Kia_Sportage_S_front_only.jpg"
+    },
+    "commons-e0db9e13311a.jpg": {
+      "file": "commons-e0db9e13311a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Destin_Henderson_Beach_SP06.jpg",
+      "author": "Ebyabe",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "File:Destin_Henderson_Beach_SP06.jpg"
+    },
+    "commons-66539591fef6.jpg": {
+      "file": "commons-66539591fef6.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01.jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "title": "File:Tursiops_truncatus_01.jpg"
+    },
+    "commons-484579b0adce.jpg": {
+      "file": "commons-484579b0adce.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fourviere_Lyon.jpg",
+      "author": "Elwood j blues",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Fourviere_Lyon.jpg"
+    },
+    "commons-85f845f26ec3.jpg": {
+      "file": "commons-85f845f26ec3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bouchon_Restaurant_Lyon_001_(Trishhhh).jpg",
+      "author": "Photo courtesy of:\n\nTrishhhh",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Bouchon_Restaurant_Lyon_001_(Trishhhh).jpg"
+    },
+    "commons-4a46f4cc5e89.jpg": {
+      "file": "commons-4a46f4cc5e89.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Institut_Lumi%C3%A8re_Lyon.jpg",
+      "author": "Matt Neale from UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Institut_Lumière_Lyon.jpg"
+    },
+    "commons-f22aac9b42fa.jpg": {
+      "file": "commons-f22aac9b42fa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Strasbourg_Cathedral_Exterior_-_Diliff.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Strasbourg_Cathedral_Exterior_-_Diliff.jpg"
+    },
+    "commons-6467103ab69c.jpg": {
+      "file": "commons-6467103ab69c.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Strasbourg_Christkindelsm%C3%A4rik_30_nov_2014.jpg",
+      "author": "Photo Claude TRUONG-NGOC",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Strasbourg_Christkindelsmärik_30_nov_2014.jpg"
+    },
+    "commons-503d0442c75c.jpg": {
+      "file": "commons-503d0442c75c.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg",
+      "author": "Steve Swayne",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:The_Parthenon_in_Athens.jpg"
+    },
+    "commons-2426b54244e7.jpg": {
+      "file": "commons-2426b54244e7.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Carrer_del_barri_de_Plaka,_Atenes.JPG",
+      "author": "Joanbanjo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Carrer_del_barri_de_Plaka,_Atenes.JPG"
+    },
+    "commons-24621a6e6785.jpg": {
+      "file": "commons-24621a6e6785.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Greece_Cape_Sounion_BW_2017-10-09_10-12-43.jpg",
+      "author": "Berthold Werner",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Greece_Cape_Sounion_BW_2017-10-09_10-12-43.jpg"
+    },
+    "commons-a831e3b53baa.jpg": {
+      "file": "commons-a831e3b53baa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Melissani_Cave,_Cave_of_the_Nymphs.jpg",
+      "author": "Benjamin Wright",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Melissani_Cave,_Cave_of_the_Nymphs.jpg"
+    },
+    "commons-7f460de32bbe.jpg": {
+      "file": "commons-7f460de32bbe.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ville_de_Saint-Pierre.jpg",
+      "author": "Rehcral",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Ville_de_Saint-Pierre.jpg"
+    },
+    "commons-7f7fee8f581e.jpg": {
+      "file": "commons-7f7fee8f581e.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint-Pierre_(Martinique)_avec_Montage_Pel%C3%A9e.JPG",
+      "author": "lb:user:Zinneke",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Saint-Pierre_(Martinique)_avec_Montage_Pelée.JPG"
+    },
+    "commons-13c33cafc9fc.jpg": {
+      "file": "commons-13c33cafc9fc.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Guadeloupe_114_-_Sommet_de_la_Soufri%C3%A8re_1467m_-_Guadeloupe.jpg",
+      "author": "No machine-readable author provided. Ofol assumed (based on copyright claims).",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "title": "File:Guadeloupe_114_-_Sommet_de_la_Soufrière_1467m_-_Guadeloupe.jpg"
+    },
+    "commons-ee011b2676bf.jpg": {
+      "file": "commons-ee011b2676bf.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chutesducarbet.jpg",
+      "author": "bobyfume",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "File:Chutesducarbet.jpg"
+    },
+    "commons-e4cd2814474c.jpg": {
+      "file": "commons-e4cd2814474c.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Eglise_de_Terre-de-Haut.jpg",
+      "author": "UHF",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Eglise_de_Terre-de-Haut.jpg"
+    },
+    "commons-eeef77215f3d.jpg": {
+      "file": "commons-eeef77215f3d.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:R%C3%A9union_Mafate_TamarinsToMarla_PassingTheFence.JPG",
+      "author": "B.navez",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Réunion_Mafate_TamarinsToMarla_PassingTheFence.JPG"
+    },
+    "commons-0674ece222be.jpg": {
+      "file": "commons-0674ece222be.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg",
+      "author": "Enric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg"
+    },
+    "commons-d51d685ddfbb.jpg": {
+      "file": "commons-d51d685ddfbb.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:LochNessUrquhart.jpg",
+      "author": "Sam Fentress",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "title": "File:LochNessUrquhart.jpg"
+    },
+    "commons-763b0903be71.jpg": {
+      "file": "commons-763b0903be71.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bowmore_whisky_12_years.JPG",
+      "author": "Sansvase",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Bowmore_whisky_12_years.JPG"
+    },
+    "commons-a19538bdbf8f.jpg": {
+      "file": "commons-a19538bdbf8f.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Claridges_Hotel_-_geograph.org.uk_-_1064579.jpg",
+      "author": "Tim Westcott",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "title": "File:Claridges_Hotel_-_geograph.org.uk_-_1064579.jpg"
+    },
+    "commons-a463a9e9ee97.jpg": {
+      "file": "commons-a463a9e9ee97.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Ritz_(6902790412).jpg",
+      "author": "Tony Hisgett from Birmingham, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:The_Ritz_(6902790412).jpg"
+    },
+    "commons-f9188d28e063.jpg": {
+      "file": "commons-f9188d28e063.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tower_of_London_from_the_Shard_(8515883950).jpg",
+      "author": "[Duncan] from Nottingham, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Tower_of_London_from_the_Shard_(8515883950).jpg"
+    },
+    "commons-4ffd6f3eaf8d.jpg": {
+      "file": "commons-4ffd6f3eaf8d.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:London_Thames_Sunset_panorama_-_Feb_2008.jpg",
+      "author": "Diliff",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "title": "File:London_Thames_Sunset_panorama_-_Feb_2008.jpg"
+    },
+    "commons-a70806d4b112.jpg": {
+      "file": "commons-a70806d4b112.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Entrance_of_Warner_Bros._Studio_Tour_London_(2025).jpg",
+      "author": "S. Perquin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Entrance_of_Warner_Bros._Studio_Tour_London_(2025).jpg"
+    },
+    "commons-8e203592bcc6.jpg": {
+      "file": "commons-8e203592bcc6.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Abbey_Road_zebra_crossing,_London_2007-03-31.jpg",
+      "author": "m.caimary",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Abbey_Road_zebra_crossing,_London_2007-03-31.jpg"
+    },
+    "commons-188e6ec58625.jpg": {
+      "file": "commons-188e6ec58625.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Beverly_Hills_Hotel_(2013).jpg",
+      "author": "Alan Light",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:The_Beverly_Hills_Hotel_(2013).jpg"
+    },
+    "commons-d0600c32b876.jpg": {
+      "file": "commons-d0600c32b876.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles,_California_(September_9,_2022)_-_380.jpg",
+      "author": "Another Believer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Los_Angeles,_California_(September_9,_2022)_-_380.jpg"
+    },
+    "commons-ba00ace2469d.jpg": {
+      "file": "commons-ba00ace2469d.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Griffith_observatory_2006.jpg",
+      "author": "Matthew Field",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "title": "File:Griffith_observatory_2006.jpg"
+    },
+    "commons-fa87a4ed30b1.jpg": {
+      "file": "commons-fa87a4ed30b1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Walk_of_Fame,_Hollywood_(20986072759).jpg",
+      "author": "Fabio Achilli from Milano, Italy",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Walk_of_Fame,_Hollywood_(20986072759).jpg"
+    },
+    "commons-c5f72a70bc8b.jpg": {
+      "file": "commons-c5f72a70bc8b.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Santa_monica_pier_entrance_evening.jpg",
+      "author": "web4camguy",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "title": "File:Santa_monica_pier_entrance_evening.jpg"
+    },
+    "commons-599d380d5a07.jpg": {
+      "file": "commons-599d380d5a07.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Atomium_during_civil_twilight_(DSCF1135).jpg",
+      "author": "Trougnouf (Benoit Brummer)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "title": "File:The_Atomium_during_civil_twilight_(DSCF1135).jpg"
+    },
+    "commons-57b3fd7fb43d.jpg": {
+      "file": "commons-57b3fd7fb43d.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brussel_-_Zandstraat_20_-_Belgisch_Stripcentrum_in_het_voormalig_Waucquez-warenhuis_(1903_door_Victor_Horta)_20230826.jpg",
+      "author": "Otter",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Brussel_-_Zandstraat_20_-_Belgisch_Stripcentrum_in_het_voormalig_Waucquez-warenhuis_(1903_door_Victor_Horta)_20230826.jpg"
+    },
+    "commons-7ff292553882.jpg": {
+      "file": "commons-7ff292553882.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Waffle_with_strawberries_and_confectioner%27s_sugar.jpg",
+      "author": "Ralph Daily",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Waffle_with_strawberries_and_confectioner's_sugar.jpg"
+    },
+    "commons-f3448f015e9a.jpg": {
+      "file": "commons-f3448f015e9a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gr20.jpg",
+      "author": "User:Tcherome",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "title": "File:Gr20.jpg"
+    },
+    "commons-b8d633ab2ed6.jpg": {
+      "file": "commons-b8d633ab2ed6.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Standard_High_Line_(24245).jpg",
+      "author": "Rhododendrites",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:The_Standard_High_Line_(24245).jpg"
+    },
+    "commons-3e25635002fc.jpg": {
+      "file": "commons-3e25635002fc.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+      "author": "AskALotl",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "title": "File:Front_view_of_Statue_of_Liberty_(cropped).jpg"
+    },
+    "commons-6c1f1ed48b50.jpg": {
+      "file": "commons-6c1f1ed48b50.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_(15351915006).jpg",
+      "author": "Anthony Quintano from Hillsborough, NJ, United States",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_(15351915006).jpg"
+    },
+    "commons-8631312a9e97.jpg": {
+      "file": "commons-8631312a9e97.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach,_New_York.jpg",
+      "author": "Christian David",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach,_New_York.jpg"
+    },
+    "commons-e442e5dabb5c.jpg": {
+      "file": "commons-e442e5dabb5c.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Avenida_Alvear_-_20090104-r.jpg",
+      "author": "Taken by the uploader, w:es:Usuario:Barcex",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Buenos_Aires_-_Avenida_Alvear_-_20090104-r.jpg"
+    },
+    "commons-c47af16ad8f4.jpg": {
+      "file": "commons-c47af16ad8f4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Faena_Hotel_Universe,_Puerto_Madero.jpg",
+      "author": "Banfield",
+      "license": "CC BY-SA 2.5 ar",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/ar/deed.en",
+      "title": "File:Faena_Hotel_Universe,_Puerto_Madero.jpg"
+    },
+    "commons-111290e690ff.jpg": {
+      "file": "commons-111290e690ff.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:San_Telmo_montage.jpg",
+      "author": "Bleff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:San_Telmo_montage.jpg"
+    },
+    "commons-de26e0fe60b4.jpg": {
+      "file": "commons-de26e0fe60b4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:La_Recoleta_Cemetery_(41054043562).jpg",
+      "author": "Deensel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:La_Recoleta_Cemetery_(41054043562).jpg"
+    },
+    "commons-ec10548eb698.jpg": {
+      "file": "commons-ec10548eb698.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_2023.jpg",
+      "author": "Fernando",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Perito_Moreno_Glacier_2023.jpg"
+    },
+    "commons-2409dfb1c0e3.jpg": {
+      "file": "commons-2409dfb1c0e3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg",
+      "author": "Mariordo (Mario Roberto Durán Ortiz)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Aerial_Foz_de_Iguaçu_26_Nov_2005.jpg"
+    },
+    "commons-4c5b85fb88e8.jpg": {
+      "file": "commons-4c5b85fb88e8.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Panorama-Calanque_de_Sugiton.jpg",
+      "author": "Tobi 87",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Panorama-Calanque_de_Sugiton.jpg"
+    },
+    "commons-5e6e02551a77.jpg": {
+      "file": "commons-5e6e02551a77.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%22Beeindruckende_Architektur%22._5.jpg",
+      "author": "Holger Uwe Schmitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:\"Beeindruckende_Architektur\"._5.jpg"
+    },
+    "commons-7fb3fa614a13.jpg": {
+      "file": "commons-7fb3fa614a13.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chateau_d%27If_view.jpg",
+      "author": "Marian78ro",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Chateau_d'If_view.jpg"
+    },
+    "commons-49710c973663.jpg": {
+      "file": "commons-49710c973663.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nice_H%C3%B4tel_Negresco_Ext%C3%A9rieur_07.jpg",
+      "author": "Zairon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Nice_Hôtel_Negresco_Extérieur_07.jpg"
+    },
+    "commons-998de30fe575.jpg": {
+      "file": "commons-998de30fe575.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nice_-_Cours_Saleya_-_Rue_Louis_Gassin_-_View_NE.jpg",
+      "author": "Txllxt TxllxT",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Nice - Cours Saleya - Rue Louis Gassin - View NE.jpg"
+    },
+    "commons-7cb021e7bf52.jpg": {
+      "file": "commons-7cb021e7bf52.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%C3%88ze_Alpes_Maritimes_France_(261171069).jpeg",
+      "author": "Jean Pierre Lozi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Èze_Alpes_Maritimes_France_(261171069).jpeg"
+    },
+    "commons-e9e22731378f.jpg": {
+      "file": "commons-e9e22731378f.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tail_of_a_humpback_whale_in_R%C3%A9union.jpg",
+      "author": "Parchaco",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "title": "File:Tail of a humpback whale in Réunion.jpg"
+    },
+    "toulon-vue-nasa.jpg": {
+      "file": "toulon-vue-nasa.jpg",
+      "source": "https://images.nasa.gov/details/SL3-40-077",
+      "author": "NASA · équipage Skylab",
+      "license": "Public domain",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "title": "Toulon et littoral varois vus depuis Skylab (1973)"
+    },
+    "guadeloupe-vue-iss.jpg": {
+      "file": "guadeloupe-vue-iss.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Guadeloupe_from_ISS_(cropped).jpg",
+      "author": "ISS Expedition 12 crew member",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "title": "File:Guadeloupe from ISS (cropped).jpg"
+    },
+    "lyon-fourviere-saone-nuit.jpg": {
+      "file": "lyon-fourviere-saone-nuit.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fourvi%C3%A8re_StJean_Panorama_bynight_Lyon.jpg",
+      "author": "Alexmar983",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "title": "File:Fourvière StJean Panorama bynight Lyon.jpg"
+    },
+    "luxe-porsche-911.jpg": {
+      "file": "luxe-porsche-911.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Porsche_911_No_1000000,_70_Years_Porsche_Sports_Car,_Berlin_(1X7A3888).jpg",
+      "author": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "Porsche_911_No_1000000,_70_Years_Porsche_Sports_Car,_Berlin_(1X7A3888).jpg"
+    },
+    "luxe-ferrari-488.jpg": {
+      "file": "luxe-ferrari-488.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg",
+      "author": "Vauxford",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg"
+    },
+    "luxe-lamborghini-huracan.jpg": {
+      "file": "luxe-lamborghini-huracan.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2017_Lamborghini_Huracan_LP610.jpg",
+      "author": "MrWalkr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "2017_Lamborghini_Huracan_LP610.jpg"
+    },
+    "luxe-rolls-royce-ghost.jpg": {
+      "file": "luxe-rolls-royce-ghost.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2022_Rolls-Royce_Ghost_Black_Badge_in_Arctic_White,_front_left.jpg",
+      "author": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "2022_Rolls-Royce_Ghost_Black_Badge_in_Arctic_White,_front_left.jpg"
+    }
+  },
+  "files": {
+    "dest-tahiti.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Destination · Tahiti & Moorea"
+    },
+    "moorea-haapiti-beach.jpg": {
+      "asset": "moorea-haapiti-beach.jpg",
+      "caption": "Plage de Haapiti à Moorea"
+    },
+    "moorea-motu-boat.jpg": {
+      "asset": "moorea-motu-boat.jpg",
+      "caption": "Embarcation dans le lagon de Moorea"
+    },
+    "dest-destin.jpg": {
+      "asset": "commons-e4cca914582a.jpg",
+      "caption": "Environs · Destin"
+    },
+    "dest-lyon.jpg": {
+      "asset": "lyon-fourviere-saone-nuit.jpg",
+      "caption": "Lyon · Fourvière et la Saône de nuit"
+    },
+    "dest-strasbourg.jpg": {
+      "asset": "commons-5c7f71996f35.jpg",
+      "caption": "Environs · Strasbourg"
+    },
+    "dest-athenes.jpg": {
+      "asset": "commons-914a8f585d5a.jpg",
+      "caption": "Environs · Athènes"
+    },
+    "dest-kefalonia.jpg": {
+      "asset": "commons-915abdc7d61f.jpg",
+      "caption": "Environs · Kefalonia (Céphalonie)"
+    },
+    "dest-martinique.jpg": {
+      "asset": "commons-441ffbd009d0.jpg",
+      "caption": "Environs · Martinique"
+    },
+    "dest-guadeloupe.jpg": {
+      "asset": "guadeloupe-vue-iss.jpg",
+      "caption": "Guadeloupe vue depuis l’ISS"
+    },
+    "dest-reunion.jpg": {
+      "asset": "commons-4d7179d74a87.jpg",
+      "caption": "Environs · La Réunion"
+    },
+    "dest-ecosse.jpg": {
+      "asset": "commons-94a45ac0b881.jpg",
+      "caption": "Environs · Écosse"
+    },
+    "dest-londres.jpg": {
+      "asset": "commons-4a2a39a8badb.jpg",
+      "caption": "Environs · Londres"
+    },
+    "dest-los-angeles.jpg": {
+      "asset": "commons-863ba65d230f.jpg",
+      "caption": "Environs · Los Angeles"
+    },
+    "dest-bruxelles.jpg": {
+      "asset": "commons-ee13d7b231cd.jpg",
+      "caption": "Environs · Bruxelles"
+    },
+    "dest-corse.jpg": {
+      "asset": "commons-555526881569.jpg",
+      "caption": "Environs · Corse"
+    },
+    "dest-new-york.jpg": {
+      "asset": "commons-a66fb1a6bf37.jpg",
+      "caption": "Environs · New York"
+    },
+    "dest-argentine.jpg": {
+      "asset": "commons-5ac07742528f.jpg",
+      "caption": "Environs · Argentine"
+    },
+    "dest-toulon.jpg": {
+      "asset": "toulon-vue-nasa.jpg",
+      "caption": "Toulon et littoral varois · vue NASA",
+      "position": "center bottom"
+    },
+    "dest-marseille.jpg": {
+      "asset": "commons-a77dc9fe9235.jpg",
+      "caption": "Environs · Marseille"
+    },
+    "dest-nice.jpg": {
+      "asset": "commons-9f2e85b3b0c4.jpg",
+      "caption": "Environs · Nice"
+    },
+    "air-tahiti-nui.webp": {
+      "asset": "commons-936422519ec7.jpg",
+      "caption": "Appareil illustré · Air Tahiti Nui"
+    },
+    "aremiti-ferry-moorea.webp": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "air-tahiti-moorea.webp": {
+      "asset": "commons-682b6a741270.jpg",
+      "caption": "Appareil illustré · Air Tahiti"
+    },
+    "intercontinental-tahiti.webp": {
+      "asset": "commons-7c06b25e167c.jpg",
+      "caption": "Vue de l’établissement · InterContinental Resort Tahiti"
+    },
+    "hilton-moorea.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "sofitel-kia-ora-moorea.jpg": {
+      "asset": "commons-8bfe48e82e76.jpg",
+      "caption": "Vue de l’établissement · Sofitel Kia Ora Moorea Beach Resort"
+    },
+    "manava-moorea.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "intercontinental-tahiti.jpg": {
+      "asset": "commons-7c06b25e167c.jpg",
+      "caption": "Vue de l’établissement · InterContinental Resort Tahiti"
+    },
+    "hilton-hotel-tahiti.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "tahiti-pearl-beach-resort.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "tahiti-lagoon-resort.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "fare-kokomo-moorea.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "fare-navigateur-moorea.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "fare-corail-tahiti.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "kia-picanto.jpg": {
+      "asset": "commons-64abd7e9b4b3.jpg",
+      "caption": "Modèle illustré · Kia Picanto"
+    },
+    "renault-twingo.jpg": {
+      "asset": "commons-4476d56832a2.jpg",
+      "caption": "Modèle illustré · Renault Twingo"
+    },
+    "renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "4x4-moorea.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · 4×4"
+    },
+    "renault-twizy.jpg": {
+      "asset": "commons-88fe752e518d.jpg",
+      "caption": "Modèle illustré · Renault Twizy"
+    },
+    "mont-rotui.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "lagon-raies.jpg": {
+      "asset": "commons-36bba0f3502c.jpg",
+      "caption": "Raie dans le lagon de Moorea"
+    },
+    "dauphins-moorea.jpg": {
+      "asset": "commons-87a12c54f408.jpg",
+      "caption": "Illustration · dauphins à long bec"
+    },
+    "danse-polynesienne.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "randonnee-moorea.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "plantation-ananas-moorea.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "pirogue-lagon-moorea.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "atelier-pareo.jpg": {
+      "asset": "dest-tahiti.jpg",
+      "caption": "Environs · Tahiti & Moorea"
+    },
+    "baleines-moorea.jpg": {
+      "asset": "commons-a150de2c2b2f.jpg",
+      "caption": "Illustration · baleine à bosse"
+    },
+    "destin-the-henderson-beach-resort-spa.jpg": {
+      "asset": "commons-e4cca914582a.jpg",
+      "caption": "Environs · Destin"
+    },
+    "destin-hilton-sandestin-beach-golf-resort-spa.jpg": {
+      "asset": "commons-e4cca914582a.jpg",
+      "caption": "Environs · Destin"
+    },
+    "destin-emerald-grande-at-harborwalk-village.jpg": {
+      "asset": "commons-e4cca914582a.jpg",
+      "caption": "Environs · Destin"
+    },
+    "destin-embassy-suites-by-hilton-destin-miramar-beach.jpg": {
+      "asset": "commons-e4cca914582a.jpg",
+      "caption": "Environs · Destin"
+    },
+    "destin-toyota-corolla.jpg": {
+      "asset": "commons-b07cf6831595.jpg",
+      "caption": "Modèle illustré · Toyota Corolla"
+    },
+    "destin-kia-sportage.jpg": {
+      "asset": "commons-85085225f0db.jpg",
+      "caption": "Modèle illustré · Kia Sportage"
+    },
+    "destin-jeep-wrangler-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · Jeep Wrangler 4×4"
+    },
+    "destin-peche-au-gros-au-depart-du-port.jpg": {
+      "asset": "commons-e4cca914582a.jpg",
+      "caption": "Lieu ou thème · Pêche au gros au départ du port"
+    },
+    "destin-dunes-et-plage-de-henderson-beach-state-park.jpg": {
+      "asset": "commons-e0db9e13311a.jpg",
+      "caption": "Lieu ou thème · Dunes et plage de Henderson Beach State Park"
+    },
+    "destin-croisiere-d-observation-des-dauphins.jpg": {
+      "asset": "commons-66539591fef6.jpg",
+      "caption": "Illustration · dauphin"
+    },
+    "destin-balade-guidee-sur-la-cote-du-golfe.jpg": {
+      "asset": "commons-e4cca914582a.jpg",
+      "caption": "Lieu ou thème · Balade guidée sur la côte du golfe"
+    },
+    "lyon-sofitel-lyon-bellecour.jpg": {
+      "asset": "lyon-fourviere-saone-nuit.jpg",
+      "caption": "Lyon · Fourvière et la Saône de nuit"
+    },
+    "lyon-intercontinental-lyon-hotel-dieu.jpg": {
+      "asset": "lyon-fourviere-saone-nuit.jpg",
+      "caption": "Lyon · Fourvière et la Saône de nuit"
+    },
+    "lyon-la-cour-des-loges.jpg": {
+      "asset": "lyon-fourviere-saone-nuit.jpg",
+      "caption": "Lyon · Fourvière et la Saône de nuit"
+    },
+    "lyon-fare-lyon-jardin.jpg": {
+      "asset": "lyon-fourviere-saone-nuit.jpg",
+      "caption": "Lyon · Fourvière et la Saône de nuit"
+    },
+    "lyon-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "lyon-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "lyon-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "lyon-traboules-du-vieux-lyon-et-basilique-de-fourviere.jpg": {
+      "asset": "commons-484579b0adce.jpg",
+      "caption": "Lieu ou thème · Traboules du Vieux-Lyon et basilique de Fourvière"
+    },
+    "lyon-diner-dans-un-bouchon-lyonnais.jpg": {
+      "asset": "commons-85f845f26ec3.jpg",
+      "caption": "Lieu ou thème · Dîner dans un bouchon lyonnais"
+    },
+    "lyon-parcours-institut-lumiere.jpg": {
+      "asset": "commons-4a46f4cc5e89.jpg",
+      "caption": "Lieu ou thème · Parcours Institut Lumière"
+    },
+    "lyon-croisiere-decouverte-sur-la-saone.jpg": {
+      "asset": "commons-3fdb9fe07ed8.jpg",
+      "caption": "Lieu ou thème · Croisière découverte sur la Saône"
+    },
+    "strasbourg-regent-petite-france-spa.jpg": {
+      "asset": "commons-5c7f71996f35.jpg",
+      "caption": "Environs · Strasbourg"
+    },
+    "strasbourg-sofitel-strasbourg-grande-ile.jpg": {
+      "asset": "commons-5c7f71996f35.jpg",
+      "caption": "Environs · Strasbourg"
+    },
+    "strasbourg-fare-strasbourg-jardin.jpg": {
+      "asset": "commons-5c7f71996f35.jpg",
+      "caption": "Environs · Strasbourg"
+    },
+    "strasbourg-maison-du-lagon-strasbourg.jpg": {
+      "asset": "commons-5c7f71996f35.jpg",
+      "caption": "Environs · Strasbourg"
+    },
+    "strasbourg-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "strasbourg-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "strasbourg-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "strasbourg-cathedrale-notre-dame-et-petite-france.jpg": {
+      "asset": "commons-f22aac9b42fa.jpg",
+      "caption": "Lieu ou thème · Cathédrale Notre-Dame et Petite France"
+    },
+    "strasbourg-croisiere-decouverte-sur-l-ill.jpg": {
+      "asset": "commons-5c7f71996f35.jpg",
+      "caption": "Environs · Strasbourg"
+    },
+    "strasbourg-marche-de-noel-de-strasbourg.jpg": {
+      "asset": "commons-6467103ab69c.jpg",
+      "caption": "Lieu ou thème · Marché de Noël de Strasbourg"
+    },
+    "strasbourg-visite-gourmande-du-centre-historique.jpg": {
+      "asset": "commons-5c7f71996f35.jpg",
+      "caption": "Lieu ou thème · Visite gourmande du centre historique"
+    },
+    "athens-hotel-grande-bretagne-a-luxury-collection-hotel.jpg": {
+      "asset": "commons-914a8f585d5a.jpg",
+      "caption": "Environs · Athènes"
+    },
+    "athens-electra-palace-athens.jpg": {
+      "asset": "commons-914a8f585d5a.jpg",
+      "caption": "Environs · Athènes"
+    },
+    "athens-fare-athenes-jardin.jpg": {
+      "asset": "commons-914a8f585d5a.jpg",
+      "caption": "Environs · Athènes"
+    },
+    "athens-maison-du-lagon-athenes.jpg": {
+      "asset": "commons-914a8f585d5a.jpg",
+      "caption": "Environs · Athènes"
+    },
+    "athens-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "athens-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "athens-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "athens-acropole-et-parthenon.jpg": {
+      "asset": "commons-503d0442c75c.jpg",
+      "caption": "Lieu ou thème · Acropole et Parthénon"
+    },
+    "athens-promenade-dans-le-quartier-de-plaka.jpg": {
+      "asset": "commons-2426b54244e7.jpg",
+      "caption": "Lieu ou thème · Promenade dans le quartier de Plaka"
+    },
+    "athens-cap-sounion-au-coucher-du-soleil.jpg": {
+      "asset": "commons-24621a6e6785.jpg",
+      "caption": "Lieu ou thème · Cap Sounion au coucher du soleil"
+    },
+    "athens-croisiere-dans-le-golfe-saronique.jpg": {
+      "asset": "commons-914a8f585d5a.jpg",
+      "caption": "Environs · Athènes"
+    },
+    "kefalonia-kefalonia-grand.jpg": {
+      "asset": "commons-915abdc7d61f.jpg",
+      "caption": "Environs · Kefalonia (Céphalonie)"
+    },
+    "kefalonia-mouikis-hotel-kefalonia.jpg": {
+      "asset": "commons-915abdc7d61f.jpg",
+      "caption": "Environs · Kefalonia (Céphalonie)"
+    },
+    "kefalonia-white-rocks-hotel-kefalonia.jpg": {
+      "asset": "commons-915abdc7d61f.jpg",
+      "caption": "Environs · Kefalonia (Céphalonie)"
+    },
+    "kefalonia-fiscardo-bay-hotel.jpg": {
+      "asset": "commons-915abdc7d61f.jpg",
+      "caption": "Environs · Kefalonia (Céphalonie)"
+    },
+    "kefalonia-f-zeen-kefalonia.jpg": {
+      "asset": "commons-915abdc7d61f.jpg",
+      "caption": "Environs · Kefalonia (Céphalonie)"
+    },
+    "kefalonia-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "kefalonia-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "kefalonia-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "kefalonia-plage-de-myrtos.jpg": {
+      "asset": "commons-915abdc7d61f.jpg",
+      "caption": "Lieu ou thème · Plage de Myrtos"
+    },
+    "kefalonia-grotte-de-melissani.jpg": {
+      "asset": "commons-a831e3b53baa.jpg",
+      "caption": "Lieu ou thème · Grotte de Melissani"
+    },
+    "kefalonia-excursion-en-bateau-vers-ithaque.jpg": {
+      "asset": "commons-915abdc7d61f.jpg",
+      "caption": "Environs · Kefalonia (Céphalonie)"
+    },
+    "kefalonia-decouverte-du-village-de-fiskardo.jpg": {
+      "asset": "commons-915abdc7d61f.jpg",
+      "caption": "Environs · Kefalonia (Céphalonie)"
+    },
+    "martinique-cap-est-lagoon-resort-spa.jpg": {
+      "asset": "commons-441ffbd009d0.jpg",
+      "caption": "Environs · Martinique"
+    },
+    "martinique-hotel-la-pagerie.jpg": {
+      "asset": "commons-441ffbd009d0.jpg",
+      "caption": "Environs · Martinique"
+    },
+    "martinique-fare-fort-de-france-jardin.jpg": {
+      "asset": "commons-441ffbd009d0.jpg",
+      "caption": "Environs · Martinique"
+    },
+    "martinique-maison-du-lagon-fort-de-france.jpg": {
+      "asset": "commons-441ffbd009d0.jpg",
+      "caption": "Environs · Martinique"
+    },
+    "martinique-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "martinique-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "martinique-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "martinique-ascension-guidee-de-la-montagne-pelee.jpg": {
+      "asset": "commons-7f460de32bbe.jpg",
+      "caption": "Saint-Pierre · au pied de la montagne Pelée"
+    },
+    "martinique-visite-de-saint-pierre.jpg": {
+      "asset": "commons-7f7fee8f581e.jpg",
+      "caption": "Lieu ou thème · Visite de Saint-Pierre"
+    },
+    "martinique-journee-a-la-plage-des-salines.jpg": {
+      "asset": "commons-441ffbd009d0.jpg",
+      "caption": "Environs · Martinique"
+    },
+    "martinique-visite-d-une-distillerie-de-rhum-agricole.jpg": {
+      "asset": "commons-441ffbd009d0.jpg",
+      "caption": "Environs · Martinique"
+    },
+    "guadeloupe-langley-resort-fort-royal.jpg": {
+      "asset": "guadeloupe-vue-iss.jpg",
+      "caption": "Guadeloupe vue depuis l’ISS"
+    },
+    "guadeloupe-la-creole-beach-hotel-spa.jpg": {
+      "asset": "guadeloupe-vue-iss.jpg",
+      "caption": "Guadeloupe vue depuis l’ISS"
+    },
+    "guadeloupe-fare-pointe-a-pitre-jardin.jpg": {
+      "asset": "guadeloupe-vue-iss.jpg",
+      "caption": "Guadeloupe vue depuis l’ISS"
+    },
+    "guadeloupe-maison-du-lagon-pointe-a-pitre.jpg": {
+      "asset": "guadeloupe-vue-iss.jpg",
+      "caption": "Guadeloupe vue depuis l’ISS"
+    },
+    "guadeloupe-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "guadeloupe-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "guadeloupe-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "guadeloupe-snorkeling-a-la-reserve-cousteau.jpg": {
+      "asset": "commons-efb135f7a4d3.jpg",
+      "caption": "Lieu ou thème · Snorkeling à la Réserve Cousteau"
+    },
+    "guadeloupe-randonnee-au-volcan-de-la-soufriere.jpg": {
+      "asset": "commons-13c33cafc9fc.jpg",
+      "caption": "Lieu ou thème · Randonnée au volcan de la Soufrière"
+    },
+    "guadeloupe-chutes-du-carbet.jpg": {
+      "asset": "commons-ee011b2676bf.jpg",
+      "caption": "Lieu ou thème · Chutes du Carbet"
+    },
+    "guadeloupe-excursion-aux-saintes.jpg": {
+      "asset": "commons-e4cd2814474c.jpg",
+      "caption": "Lieu ou thème · Excursion aux Saintes"
+    },
+    "reunion-lux-saint-gilles.jpg": {
+      "asset": "commons-4d7179d74a87.jpg",
+      "caption": "Environs · La Réunion"
+    },
+    "reunion-hotel-le-boucan-canot.jpg": {
+      "asset": "commons-4d7179d74a87.jpg",
+      "caption": "Environs · La Réunion"
+    },
+    "reunion-akoya-hotel-spa.jpg": {
+      "asset": "commons-4d7179d74a87.jpg",
+      "caption": "Environs · La Réunion"
+    },
+    "reunion-hotel-le-recif.jpg": {
+      "asset": "commons-4d7179d74a87.jpg",
+      "caption": "Environs · La Réunion"
+    },
+    "reunion-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "reunion-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "reunion-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "reunion-decouverte-du-piton-de-la-fournaise.jpg": {
+      "asset": "commons-4d7179d74a87.jpg",
+      "caption": "Lieu ou thème · Découverte du Piton de la Fournaise"
+    },
+    "reunion-randonnee-dans-le-cirque-de-mafate.jpg": {
+      "asset": "commons-eeef77215f3d.jpg",
+      "caption": "Lieu ou thème · Randonnée dans le cirque de Mafate"
+    },
+    "reunion-salazie-et-cilaos-paysages-des-cirques.jpg": {
+      "asset": "commons-4d7179d74a87.jpg",
+      "caption": "Environs · La Réunion"
+    },
+    "reunion-observation-des-baleines.jpg": {
+      "asset": "commons-e9e22731378f.jpg",
+      "caption": "Baleine à bosse · La Réunion"
+    },
+    "scotland-the-balmoral.jpg": {
+      "asset": "commons-94a45ac0b881.jpg",
+      "caption": "Environs · Écosse"
+    },
+    "scotland-the-caledonian-a-waldorf-astoria-hotel.jpg": {
+      "asset": "commons-94a45ac0b881.jpg",
+      "caption": "Environs · Écosse"
+    },
+    "scotland-gleneagles.jpg": {
+      "asset": "commons-94a45ac0b881.jpg",
+      "caption": "Environs · Écosse"
+    },
+    "scotland-fare-edimbourg-jardin.jpg": {
+      "asset": "commons-94a45ac0b881.jpg",
+      "caption": "Environs · Écosse"
+    },
+    "scotland-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "scotland-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "scotland-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "scotland-chateau-d-edimbourg-et-royal-mile.jpg": {
+      "asset": "commons-0674ece222be.jpg",
+      "caption": "Lieu ou thème · Château d'Édimbourg et Royal Mile"
+    },
+    "scotland-excursion-au-loch-ness.jpg": {
+      "asset": "commons-d51d685ddfbb.jpg",
+      "caption": "Lieu ou thème · Excursion au Loch Ness"
+    },
+    "scotland-highlands-et-glen-coe.jpg": {
+      "asset": "commons-94a45ac0b881.jpg",
+      "caption": "Environs · Écosse"
+    },
+    "scotland-visite-d-une-distillerie-de-whisky.jpg": {
+      "asset": "commons-763b0903be71.jpg",
+      "caption": "Illustration · whisky écossais"
+    },
+    "london-the-savoy.jpg": {
+      "asset": "commons-4a2a39a8badb.jpg",
+      "caption": "Environs · Londres"
+    },
+    "london-claridge-s.jpg": {
+      "asset": "commons-a19538bdbf8f.jpg",
+      "caption": "Vue de l’établissement · Claridge's"
+    },
+    "london-the-ritz-london.jpg": {
+      "asset": "commons-a463a9e9ee97.jpg",
+      "caption": "Vue de l’établissement · The Ritz London"
+    },
+    "london-the-garden-gate-stay.jpg": {
+      "asset": "commons-4a2a39a8badb.jpg",
+      "caption": "Environs · Londres"
+    },
+    "london-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "london-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "london-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "london-tower-of-london.jpg": {
+      "asset": "commons-f9188d28e063.jpg",
+      "caption": "Lieu ou thème · Tower of London"
+    },
+    "london-croisiere-sur-la-tamise.jpg": {
+      "asset": "commons-4ffd6f3eaf8d.jpg",
+      "caption": "Lieu ou thème · Croisière sur la Tamise"
+    },
+    "london-warner-bros-studio-tour-london.jpg": {
+      "asset": "commons-a70806d4b112.jpg",
+      "caption": "Lieu ou thème · Warner Bros. Studio Tour London"
+    },
+    "london-traversee-photo-d-abbey-road.jpg": {
+      "asset": "commons-8e203592bcc6.jpg",
+      "caption": "Lieu ou thème · Traversée photo d'Abbey Road"
+    },
+    "losangeles-the-beverly-hills-hotel.jpg": {
+      "asset": "commons-188e6ec58625.jpg",
+      "caption": "Vue de l’établissement · The Beverly Hills Hotel"
+    },
+    "losangeles-hollywood-roosevelt.jpg": {
+      "asset": "commons-863ba65d230f.jpg",
+      "caption": "Environs · Los Angeles"
+    },
+    "losangeles-hotel-figueroa.jpg": {
+      "asset": "commons-d0600c32b876.jpg",
+      "caption": "Vue de l’établissement · Hotel Figueroa"
+    },
+    "losangeles-fare-los-angeles-jardin.jpg": {
+      "asset": "commons-863ba65d230f.jpg",
+      "caption": "Environs · Los Angeles"
+    },
+    "losangeles-toyota-corolla.jpg": {
+      "asset": "commons-b07cf6831595.jpg",
+      "caption": "Modèle illustré · Toyota Corolla"
+    },
+    "losangeles-kia-sportage.jpg": {
+      "asset": "commons-85085225f0db.jpg",
+      "caption": "Modèle illustré · Kia Sportage"
+    },
+    "losangeles-jeep-wrangler-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · Jeep Wrangler 4×4"
+    },
+    "losangeles-observatoire-griffith.jpg": {
+      "asset": "commons-ba00ace2469d.jpg",
+      "caption": "Lieu ou thème · Observatoire Griffith"
+    },
+    "losangeles-walk-of-fame-et-hollywood.jpg": {
+      "asset": "commons-fa87a4ed30b1.jpg",
+      "caption": "Lieu ou thème · Walk of Fame et Hollywood"
+    },
+    "losangeles-santa-monica-pier-et-venice-beach.jpg": {
+      "asset": "commons-c5f72a70bc8b.jpg",
+      "caption": "Lieu ou thème · Santa Monica Pier et Venice Beach"
+    },
+    "losangeles-visite-des-studios-universal.jpg": {
+      "asset": "commons-863ba65d230f.jpg",
+      "caption": "Environs · Los Angeles"
+    },
+    "brussels-hotel-amigo.jpg": {
+      "asset": "commons-ee13d7b231cd.jpg",
+      "caption": "Environs · Bruxelles"
+    },
+    "brussels-hotel-metropole.jpg": {
+      "asset": "commons-ee13d7b231cd.jpg",
+      "caption": "Environs · Bruxelles"
+    },
+    "brussels-sofitel-brussels-le-louise.jpg": {
+      "asset": "commons-ee13d7b231cd.jpg",
+      "caption": "Environs · Bruxelles"
+    },
+    "brussels-fare-bruxelles-jardin.jpg": {
+      "asset": "commons-ee13d7b231cd.jpg",
+      "caption": "Environs · Bruxelles"
+    },
+    "brussels-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "brussels-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "brussels-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "brussels-grand-place-et-centre-historique.jpg": {
+      "asset": "commons-ee13d7b231cd.jpg",
+      "caption": "Lieu ou thème · Grand-Place et centre historique"
+    },
+    "brussels-atomium.jpg": {
+      "asset": "commons-599d380d5a07.jpg",
+      "caption": "Lieu ou thème · Atomium"
+    },
+    "brussels-parcours-des-murs-peints-et-centre-belge-de-la-bande-dessinee.jpg": {
+      "asset": "commons-57b3fd7fb43d.jpg",
+      "caption": "Lieu ou thème · Parcours des murs peints et Centre belge de la Bande dessinée"
+    },
+    "brussels-degustation-de-gaufres-et-chocolat.jpg": {
+      "asset": "commons-7ff292553882.jpg",
+      "caption": "Lieu ou thème · Dégustation de gaufres et chocolat"
+    },
+    "corsica-cala-rossa-hotel-spa.jpg": {
+      "asset": "commons-555526881569.jpg",
+      "caption": "Environs · Corse"
+    },
+    "corsica-les-roches-rouges.jpg": {
+      "asset": "commons-555526881569.jpg",
+      "caption": "Environs · Corse"
+    },
+    "corsica-the-genovese.jpg": {
+      "asset": "commons-555526881569.jpg",
+      "caption": "Environs · Corse"
+    },
+    "corsica-fare-ajaccio-jardin.jpg": {
+      "asset": "commons-555526881569.jpg",
+      "caption": "Environs · Corse"
+    },
+    "corsica-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "corsica-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "corsica-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "corsica-calanques-de-piana-et-reserve-de-scandola.jpg": {
+      "asset": "commons-555526881569.jpg",
+      "caption": "Lieu ou thème · Calanques de Piana et réserve de Scandola"
+    },
+    "corsica-falaises-de-bonifacio.jpg": {
+      "asset": "commons-555526881569.jpg",
+      "caption": "Environs · Corse"
+    },
+    "corsica-plage-de-palombaggia.jpg": {
+      "asset": "commons-555526881569.jpg",
+      "caption": "Environs · Corse"
+    },
+    "corsica-randonnee-accompagnee-sur-une-etape-du-gr20.jpg": {
+      "asset": "commons-f3448f015e9a.jpg",
+      "caption": "Lieu ou thème · Randonnée accompagnée sur une étape du GR20"
+    },
+    "newyork-the-plaza.jpg": {
+      "asset": "commons-a66fb1a6bf37.jpg",
+      "caption": "Environs · New York"
+    },
+    "newyork-the-standard-high-line.jpg": {
+      "asset": "commons-b8d633ab2ed6.jpg",
+      "caption": "Vue de l’établissement · The Standard, High Line"
+    },
+    "newyork-the-hotel-chelsea.jpg": {
+      "asset": "commons-a66fb1a6bf37.jpg",
+      "caption": "Environs · New York"
+    },
+    "newyork-fare-new-york-jardin.jpg": {
+      "asset": "commons-a66fb1a6bf37.jpg",
+      "caption": "Environs · New York"
+    },
+    "newyork-toyota-corolla.jpg": {
+      "asset": "commons-b07cf6831595.jpg",
+      "caption": "Modèle illustré · Toyota Corolla"
+    },
+    "newyork-kia-sportage.jpg": {
+      "asset": "commons-85085225f0db.jpg",
+      "caption": "Modèle illustré · Kia Sportage"
+    },
+    "newyork-jeep-wrangler-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · Jeep Wrangler 4×4"
+    },
+    "newyork-statue-de-la-liberte-et-ellis-island.jpg": {
+      "asset": "commons-3e25635002fc.jpg",
+      "caption": "Lieu ou thème · Statue de la Liberté et Ellis Island"
+    },
+    "newyork-central-park.jpg": {
+      "asset": "commons-6c1f1ed48b50.jpg",
+      "caption": "Lieu ou thème · Central Park"
+    },
+    "newyork-pont-de-brooklyn-et-high-line.jpg": {
+      "asset": "commons-8631312a9e97.jpg",
+      "caption": "Lieu ou thème · Pont de Brooklyn et High Line"
+    },
+    "newyork-comedie-musicale-a-broadway.jpg": {
+      "asset": "commons-a66fb1a6bf37.jpg",
+      "caption": "Environs · New York"
+    },
+    "argentina-alvear-palace-hotel.jpg": {
+      "asset": "commons-e442e5dabb5c.jpg",
+      "caption": "Vue de l’établissement · Alvear Palace Hotel"
+    },
+    "argentina-faena-hotel-buenos-aires.jpg": {
+      "asset": "commons-c47af16ad8f4.jpg",
+      "caption": "Vue de l’établissement · Faena Hotel Buenos Aires"
+    },
+    "argentina-los-notros.jpg": {
+      "asset": "commons-5ac07742528f.jpg",
+      "caption": "Environs · Argentine"
+    },
+    "argentina-fare-buenos-aires-jardin.jpg": {
+      "asset": "commons-5ac07742528f.jpg",
+      "caption": "Environs · Argentine"
+    },
+    "argentina-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "argentina-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "argentina-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "argentina-spectacle-de-tango-a-san-telmo.jpg": {
+      "asset": "commons-111290e690ff.jpg",
+      "caption": "Lieu ou thème · Spectacle de tango à San Telmo"
+    },
+    "argentina-cimetiere-de-la-recoleta.jpg": {
+      "asset": "commons-de26e0fe60b4.jpg",
+      "caption": "Lieu ou thème · Cimetière de la Recoleta"
+    },
+    "argentina-glacier-perito-moreno.jpg": {
+      "asset": "commons-ec10548eb698.jpg",
+      "caption": "Lieu ou thème · Glacier Perito Moreno"
+    },
+    "argentina-chutes-d-iguazu.jpg": {
+      "asset": "commons-2409dfb1c0e3.jpg",
+      "caption": "Lieu ou thème · Chutes d'Iguazú"
+    },
+    "toulon-l-eautel-toulon-centre-port.jpg": {
+      "asset": "toulon-vue-nasa.jpg",
+      "caption": "Toulon et littoral varois · vue NASA",
+      "position": "center bottom"
+    },
+    "toulon-grand-hotel-dauphine-boutique-hotel-suites.jpg": {
+      "asset": "toulon-vue-nasa.jpg",
+      "caption": "Toulon et littoral varois · vue NASA",
+      "position": "center bottom"
+    },
+    "toulon-okko-hotels-toulon-centre.jpg": {
+      "asset": "toulon-vue-nasa.jpg",
+      "caption": "Toulon et littoral varois · vue NASA",
+      "position": "center bottom"
+    },
+    "toulon-ibis-styles-toulon-centre-port.jpg": {
+      "asset": "toulon-vue-nasa.jpg",
+      "caption": "Toulon et littoral varois · vue NASA",
+      "position": "center bottom"
+    },
+    "toulon-holiday-inn-toulon-city-centre.jpg": {
+      "asset": "toulon-vue-nasa.jpg",
+      "caption": "Toulon et littoral varois · vue NASA",
+      "position": "center bottom"
+    },
+    "toulon-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "toulon-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "toulon-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "toulon-telepherique-du-mont-faron.jpg": {
+      "asset": "toulon-vue-nasa.jpg",
+      "caption": "Toulon et littoral varois · vue NASA",
+      "position": "center bottom"
+    },
+    "toulon-marche-du-cours-lafayette.jpg": {
+      "asset": "commons-d7ea2496f43a.jpg",
+      "caption": "Lieu ou thème · Marché du Cours Lafayette"
+    },
+    "toulon-musee-national-de-la-marine.jpg": {
+      "asset": "toulon-vue-nasa.jpg",
+      "caption": "Toulon et littoral varois · vue NASA",
+      "position": "center bottom"
+    },
+    "toulon-traversee-vers-porquerolles-et-plages-du-mourillon.jpg": {
+      "asset": "toulon-vue-nasa.jpg",
+      "caption": "Toulon et littoral varois · vue NASA",
+      "position": "center bottom"
+    },
+    "marseille-intercontinental-marseille-hotel-dieu.jpg": {
+      "asset": "commons-a77dc9fe9235.jpg",
+      "caption": "Environs · Marseille"
+    },
+    "marseille-sofitel-marseille-vieux-port.jpg": {
+      "asset": "commons-a77dc9fe9235.jpg",
+      "caption": "Environs · Marseille"
+    },
+    "marseille-mama-shelter-marseille.jpg": {
+      "asset": "commons-a77dc9fe9235.jpg",
+      "caption": "Environs · Marseille"
+    },
+    "marseille-fare-marseille-jardin.jpg": {
+      "asset": "commons-a77dc9fe9235.jpg",
+      "caption": "Environs · Marseille"
+    },
+    "marseille-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "marseille-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "marseille-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "marseille-vieux-port-et-notre-dame-de-la-garde.jpg": {
+      "asset": "commons-a77dc9fe9235.jpg",
+      "caption": "Lieu ou thème · Vieux-Port et Notre-Dame de la Garde"
+    },
+    "marseille-parc-national-des-calanques.jpg": {
+      "asset": "commons-4c5b85fb88e8.jpg",
+      "caption": "Lieu ou thème · Parc national des Calanques"
+    },
+    "marseille-mucem-et-quartier-du-panier.jpg": {
+      "asset": "commons-5e6e02551a77.jpg",
+      "caption": "Lieu ou thème · MuCEM et quartier du Panier"
+    },
+    "marseille-traversee-vers-le-chateau-d-if.jpg": {
+      "asset": "commons-7fb3fa614a13.jpg",
+      "caption": "Lieu ou thème · Traversée vers le Château d'If"
+    },
+    "nice-hotel-negresco.jpg": {
+      "asset": "commons-49710c973663.jpg",
+      "caption": "Vue de l’établissement · Hôtel Negresco"
+    },
+    "nice-le-meridien-nice.jpg": {
+      "asset": "commons-9f2e85b3b0c4.jpg",
+      "caption": "Environs · Nice"
+    },
+    "nice-hyatt-regency-nice-palais-de-la-mediterranee.jpg": {
+      "asset": "commons-9f2e85b3b0c4.jpg",
+      "caption": "Environs · Nice"
+    },
+    "nice-fare-nice-jardin.jpg": {
+      "asset": "commons-9f2e85b3b0c4.jpg",
+      "caption": "Environs · Nice"
+    },
+    "nice-peugeot-208.jpg": {
+      "asset": "commons-40f70962f3ab.jpg",
+      "caption": "Modèle illustré · Peugeot 208"
+    },
+    "nice-renault-clio.jpg": {
+      "asset": "commons-06bfc62ca6a8.jpg",
+      "caption": "Modèle illustré · Renault Clio"
+    },
+    "nice-suv-4-4.jpg": {
+      "asset": "commons-3be0583a667b.jpg",
+      "caption": "Modèle illustré · SUV 4×4"
+    },
+    "nice-promenade-des-anglais-et-vieux-nice.jpg": {
+      "asset": "commons-9f2e85b3b0c4.jpg",
+      "caption": "Environs · Nice"
+    },
+    "nice-cours-saleya-et-marche-aux-fleurs.jpg": {
+      "asset": "commons-998de30fe575.jpg",
+      "caption": "Lieu ou thème · Cours Saleya et marché aux fleurs"
+    },
+    "nice-colline-du-chateau.jpg": {
+      "asset": "commons-9f2e85b3b0c4.jpg",
+      "caption": "Lieu ou thème · Colline du Château"
+    },
+    "nice-excursion-a-eze-et-monaco.jpg": {
+      "asset": "commons-7cb021e7bf52.jpg",
+      "caption": "Lieu ou thème · Excursion à Èze et Monaco"
+    },
+    "luxe-porsche-911.jpg": {
+      "asset": "luxe-porsche-911.jpg",
+      "caption": "Modèle illustré · Porsche 911"
+    },
+    "luxe-ferrari-488.jpg": {
+      "asset": "luxe-ferrari-488.jpg",
+      "caption": "Modèle illustré · Ferrari 488"
+    },
+    "luxe-lamborghini-huracan.jpg": {
+      "asset": "luxe-lamborghini-huracan.jpg",
+      "caption": "Modèle illustré · Lamborghini Huracán"
+    },
+    "luxe-rolls-royce-ghost.jpg": {
+      "asset": "luxe-rolls-royce-ghost.jpg",
+      "caption": "Modèle illustré · Rolls-Royce Ghost"
+    }
+  }
+}
